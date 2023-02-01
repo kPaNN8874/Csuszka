@@ -1,0 +1,5 @@
+C:\$Projects\2023-02-01\2023-02-01\obj\Debug\net6.0-windows\2023-02-01.csproj.AssemblyReference.cache
+C:\$Projects\2023-02-01\2023-02-01\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\$Projects\2023-02-01\2023-02-01\obj\Debug\net6.0-windows\App.g.cs
+C:\$Projects\2023-02-01\2023-02-01\obj\Debug\net6.0-windows\2023-02-01_MarkupCompile.cache
+C:\$Projects\2023-02-01\2023-02-01\obj\Debug\net6.0-windows\2023-02-01_MarkupCompile.lref
